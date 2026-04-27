@@ -31,21 +31,21 @@ Verified customer reviews for more authenticity
 
 While Trustpilot isn’t a comprehensive scam checker, it offers valuable information about the overall customer experience and is a great resource for assessing a website’s reputation.
 
-**3. Website Planet**
+**3. [Google Safe Browsing](https://transparencyreport.google.com/safe-browsing)**
 
-Website Planet provides a comprehensive suite of tools to assess website security, reputation, and trustworthiness. Their Website Safety Checker is one of the most effective tools for determining whether a website is safe or potentially harmful. It offers in-depth information on a site’s history, its security certificates, and even its traffic sources. The tool scans for malware, phishing links, and other potential red flags that could indicate that a site is a scam or unsafe to visit.
+Google Safe Browsing provides a comprehensive service to assess website security, helping users identify potentially harmful sites. It scans for malware, phishing attempts, and other dangerous elements that could indicate a site is unsafe. The tool also provides real-time alerts when a website is flagged as risky.
 
-Moreover, Website Planet provides access to an extensive knowledge base, giving users more insights into how to identify and avoid scam sites in the future. This makes it an excellent resource for individuals and businesses who want a reliable and detailed analysis of any website they interact with.
+In addition to its threat detection capabilities, Google Safe Browsing integrates with various browsers and services to protect users across the web. Providing valuable safety reports helps prevent users from visiting malicious websites.
 
 **Key Features:**
 
-Comprehensive safety checker with detailed reports
-Malware and phishing link detection
-Historical data to spot potential issues with the website
-User-friendly interface for quick analysis
+Real-time safety checks for malware and phishing
+Alerts for risky websites in browsers and apps
+Integration with Google tools for enhanced security
+Easy-to-use interface with clear safety warnings
 
-For those who want a thorough review of a website’s safety and history, Website Planet’s Website Safety Checker is an excellent alternative to traditional scam-checking tools.
+For those who want to avoid dangerous websites and stay protected while browsing, Google Safe Browsing offers an excellent and reliable safety checker.
 
 **Conclusion**
 
-While Scamadviser is undoubtedly a trusted resource for checking the legitimacy of websites, the three alternatives listed above—Scam Alerts, Trustpilot, and Website Planet’s Website Safety Checker—also provide valuable tools to help users stay safe online. Whether you’re shopping, browsing, or researching, using a combination of these tools can give you a more holistic understanding of a website's legitimacy. Always remember to stay vigilant when visiting new websites, and when in doubt, trust your instincts—scammers thrive on the unguarded!
+While Scamadviser is undoubtedly a trusted resource for checking the legitimacy of websites, the three alternatives listed above—Scam Alerts, Trustpilot, and Google Safe Browsing, also provide valuable tools to help users stay safe online. Whether you’re shopping, browsing, or researching, using a combination of these tools can give you a more holistic understanding of a website's legitimacy. Always remember to stay vigilant when visiting new websites, and when in doubt, trust your instincts—scammers thrive on the unguarded!
